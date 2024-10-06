@@ -19,7 +19,6 @@ La aplicación **Crypto Markets App** permite a los usuarios consultar informaci
 
 \`\`\`bash
 lib/
-│
 ├── models/              # Modelos de datos
 ├── providers/           # Gestión del estado con Provider
 ├── screens/             # Pantallas principales de la app
