@@ -68,9 +68,6 @@ android/build/
 # Excluir la carpeta de binarios y otras dependencias de pub
 .dart_tool/pub/
 
-# Excluir assets generados
-assets/icons/
-
 # Excluir archivos temporales o de entorno local
 *.log
 
