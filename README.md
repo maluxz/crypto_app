@@ -15,16 +15,6 @@ La aplicación **Crypto Markets App** permite a los usuarios consultar informaci
 - **Actualización**: Botón de actualización manual para refrescar los datos de los mercados.
 - **Diseño Material**: Se utiliza Flutter y el paquete `provider` para la gestión del estado.
 
-## Estructura del Proyecto
-
-\`\`\`bash
-lib/
-├── models/              # Modelos de datos
-├── providers/           # Gestión del estado con Provider
-├── screens/             # Pantallas principales de la app
-└── assets/              # Iconos de criptomonedas
-\`\`\`
-
 ## Créditos
 
 Este proyecto fue desarrollado como parte de la asignatura **Tecnologías Móviles II** del **TecNM - Instituto Tecnológico de Delicias**, bajo la guía del profesor [Cesar Acosta](https://github.com/C3sarAcosta). Durante el curso, se aprendió a consumir APIs y a desarrollar aplicaciones móviles multiplataforma con **Flutter**.
